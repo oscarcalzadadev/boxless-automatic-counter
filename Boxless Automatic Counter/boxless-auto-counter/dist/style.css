@@ -1,0 +1,18 @@
+#containerNumbers {
+  background-color: #b52025;
+  width: 140px;
+  height: 140px;
+  color: white;
+  text-align: center;
+  display: grid;
+  align-items: center;
+}
+#containerNumbers #autoIncrement {
+  font-size: 2em;
+  position: relative;
+  top: 20px;
+  margin: 0;
+}
+#containerNumbers #boxTextNumbers {
+  font-size: 14px;
+}
